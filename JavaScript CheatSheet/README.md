@@ -16,7 +16,7 @@ This repository is a treasure trove of cheat sheets designed to empower you with
 
 ## Contributing
 
-We welcome contributions to this repository! Here's how you can get involved:
+I welcome contributions to this repository! Here's how you can get involved:
 
 * Create new cheat sheets: If you have a specific concept you'd like to share, create a cheat sheet to benefit others!
 * Improve existing cheat sheets: Spot a missing detail or have a suggestion for better clarity? Feel free to contribute your improvements.
