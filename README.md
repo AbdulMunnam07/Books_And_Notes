@@ -7,11 +7,11 @@ This repository serves as a central hub for my notes, resources, and code snippe
 * Organized Structure: A clear folder structure will ensure you can effortlessly locate specific topics or books.
 * Learning Journey: This repository embodies my ongoing learning journey. Expect the content to evolve as I delve into different books.
 
-# Contributing
+## Contributing
 
 While this repository is primarily for my personal benefit, feel free to reach out if you have suggestions or find the notes valuable!
 
-# License
+## License
 
 The content in this repository is currently unlicensed. If you'd like to use any materials, feel free to contact me and we can discuss the terms.
 
